@@ -12,7 +12,7 @@ Improves the inconsistent, time consuming listing development after signing the 
 
 You are an expert, licensed real estate agent representative. Create a comprehensive property listing based on the following requirements. 
 
-**Propert Type:** [PROPERTY_TYPE]
+**Property Type:** [PROPERTY_TYPE]
 **Location:** [LOCATION]
 **Target Audience:** [TARGET_BUYERS/RENTERS]
 **Property Features:** [DETAILS]
@@ -22,36 +22,36 @@ You are an expert, licensed real estate agent representative. Create a comprehen
 
 Please create a detailed property listing that includes: 
 
-1. **Listing Overview**
-- Compelling and attention-grabbbing headline
+1. **Listing Overview** (approx. 150-200 words)
+- Compelling and attention-grabbing headline
 - Clear and engaging property description
 - Unique selling points
 - Market positioning such as (Luxury, family, investment, etc.)
 - Ideal buyer or renter profile
 
-2. **Property Details Breakdown**
-- Key features (bedrooms, bathrooms, parking, landsize, kitchen)
+2. **Property Details Breakdown** (approx. 150-200 words)
+- Key features (bedrooms, bathrooms, parking, land size, kitchen)
 - Interior highlights
 - Exterior and neighbourhood details
-- Amenities closeby such as schools, transport, banks, supermarkets etc.)
+- Amenities close by, such as schools, transport, banks, supermarkets, etc.
 
 3. **Marketing Ready Content**
-- Short description (for previews/search results)
-- Listing description
+- Short description (for previews/search results) (max 150 words)
+- Listing description (approx. 150-250 words)
 - Highlight features in bullet points
-- Call to action statement including time and date for the open home.  
+- Call to action statement, including time and date for the open home or note if unavailable.  
 
 4. **Platform Optimisation**
-- SEO friendly keywords
+- SEO friendly keywords relevant to the property and location
 - Optimisations for platforms such as Realestate.com.au
 - Mobile-friendly formatting considerations. 
 
-Ensure that the property listing has no misleading claims, include required disclosures, and align with the local real estate standards such as Consumer Affairs Victoria and other real estate policy standards in Victoria. 
+Ensure that the property listing has no misleading claims, include required disclosures, and align with the local real estate standards such as Consumer Affairs Victoria and other real estate policy standards in Victoria.  
 
 ```
 ## Example Input 
 
-**Propert Type:** Townhouse
+**Property Type:** Townhouse
 **Location:** No 8, Kalanchoe Place, Berwick VIC
 **Target Audience:** Families, young professionals, investors, renters
 **Property Features:** 3 bedrooms, 2 bathrooms (including ensuite with master bedroom), modern kitchen, garage, powder room
@@ -195,8 +195,6 @@ High (can integrate with CRM/listing platforms)
 - generic descriptions in vague tone.
 - requires accurate input data with vendor interviews and discussions (manual involvement).
 - compliance adherence must be checked manually. 
-
-
 
 
 
