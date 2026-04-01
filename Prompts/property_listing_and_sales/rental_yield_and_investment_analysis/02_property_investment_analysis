@@ -1,0 +1,142 @@
+# Property Yield and Investment Analysis
+
+## Business Task
+Evaluate the investment potential of the property and build a financial decision making layer for investors and data-driven buyers. 
+
+## Problem addressed 
+Property investment decisions require more complex financial understanding. Many buyers do not fully get the concept and go blind with ROI, oversimplify based on emotions or trends. 
+- Helps to define the target audience more accurately.
+- Improves marketing strategy.
+- Supports to align with pricing with ROI expectations. 
+- Supports time consuming manual financial evaluation. 
+
+## Prompt
+You are an expert property investment analyst. Please evaluate the investment potential of the following property, using only the data provided and general, widely accepted market knowledge from the last 1-2 years. Limit your response to no more than 400 words.
+
+**Property price:** [PRICE]
+**Rental Estimate:** [RENT]
+**Expenses involved:** [COSTS]
+**Property location:** [LOCATION]
+
+Please provide your analysis using clear headings and bullet or numbered lists for each section below:
+
+1. **Rental Yield Calculation** - Calculate gross and net rental yields based on the data.
+2. **ROI Analysis** - Provide a simple ROI estimate assuming no financing. Briefly note how financing might affect ROI if relevant, without specific calculations.
+3. **Market Trends** - Summarize recent (last 1-2 years) property market trends in [LOCATION], based on general, publicly available information or typical market indicators. Do not use specific external data sources.
+4. **Risks** - Identify key investment risks specific to this property and location.
+5. **Investment Recommendation** - Provide a clear recommendation based on your analysis.
+
+Avoid unsupported claims or adding information beyond what can be reasonably inferred from the data and general market knowledge. Use bullet points or numbered lists within each section for clarity.
+
+## Example Input
+**Property price:** AUD 1,250,000
+**Rental Estimate:** AUD 1,500 per week
+**Expenses involved (Estimated):**
+Property Management (6% of rental income): AUD 4,680
+Maintenance & Repairs: AUD 3,500
+Insurance: AUD 1,800
+Council Rates: AUD 2,000
+Vacancy Allowance (2 weeks): AUD 3,000
+**Property location:** Berwick VIC
+
+## Example Output
+
+1. **Rental Yield Calculation**
+
+- **Annual Rental Income:**  
+  AUD 1,500/week × 52 weeks = AUD 78,000
+
+- **Gross Rental Yield:**  
+  (Annual Rent / Property Price) × 100  
+  = (78,000 / 1,250,000) × 100 = 6.24%
+
+- **Total Expenses:**  
+  Property Management: AUD 4,680  
+  Maintenance & Repairs: AUD 3,500  
+  Insurance: AUD 1,800  
+  Council Rates: AUD 2,000  
+  Vacancy Allowance: AUD 3,000  
+  **Total = AUD 14,980**
+
+- **Net Rental Income:**  
+  AUD 78,000 - AUD 14,980 = AUD 63,020
+
+- **Net Rental Yield:**  
+  (Net Income / Property Price) × 100  
+  = (63,020 / 1,250,000) × 100 = 5.04%
+
+---
+
+2. **ROI Analysis**
+
+- **Simple ROI (No Financing):**  
+  ROI = (Net Income / Property Price) × 100 = 5.04% per annum
+
+- **Impact of Financing:**  
+  - Using mortgage financing typically reduces upfront capital and may increase ROI via leverage if rental income covers mortgage payments.  
+  - However, interest expenses and loan fees can reduce net returns.  
+  - Leverage increases risk, especially if vacancy or interest rates rise.
+
+---
+
+3. **Market Trends (Berwick VIC, Last 1-2 Years)**
+
+- **Price Growth:**  
+  Berwick has experienced moderate to strong capital growth, driven by demand for family-friendly suburbs within commuting distance to Melbourne CBD.
+
+- **Rental Market:**  
+  Rental demand remains healthy with low vacancy rates, supporting stable rents around the AUD 1,500/week mark for quality properties.
+
+- **Economic Factors:**  
+  Infrastructure improvements and community amenities have enhanced Berwick’s attractiveness.
+
+- **Interest Rates:**  
+  Rising interest rates in recent times have tempered buyer activity but rental demand has stayed resilient.
+
+---
+
+4. **Risks**
+
+- **Interest Rate Risk:**  
+  Rising rates could increase mortgage costs, impacting cash flow if financing is used.
+
+- **Vacancy Risk:**  
+  Although vacancy is low, unexpected vacancies could affect income, especially if the property is specialized or less appealing.
+
+- **Maintenance and Unexpected Costs:**  
+  Repair expenses may fluctuate, potentially exceeding estimates.
+
+- **Market Volatility:**  
+  Broader economic downturns could reduce both rental demand and property values.
+
+- **Location Specific Risks:**  
+  Changes in local zoning, infrastructure, or community services could affect desirability.
+
+---
+
+5. **Investment Recommendation**
+
+- The property offers a reasonable gross yield (6.24%) and a solid net yield (~5%), which is attractive in the current market context.
+
+- Berwick’s positive market trends and rental demand support potential for stable income and capital growth.
+
+- Risks are typical for residential property investments and manageable with prudent financial planning.
+
+- **Recommendation:**  
+  This property appears to be a sound investment for a buy-and-hold strategy, especially for investors seeking steady rental income and capital growth in a well-regarded Melbourne suburb. Financing decisions should be carefully considered in light of interest rate risk and cash flow requirements.
+
+## Automation Potential 
+Moderate - formula driven calculations can be easily automated and help to iterate with different property types. 
+
+## Risks and Limitations
+### Risks
+- Future market conditions cannot be interpreted. 
+- Unexpected economic changes such as war, inflation and climate changes. 
+- Capturing the buyer's risk potential. 
+
+### Limitations
+- may give inaccurate rental estimates. 
+- Interest rates, demand and policies can change. 
+- cannot fully predict the future changes.
+- cannot replace professional financial advice.
+- cannot assess emotional preferences. 

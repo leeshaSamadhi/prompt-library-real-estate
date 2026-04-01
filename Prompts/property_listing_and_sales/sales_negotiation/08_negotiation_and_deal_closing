@@ -1,0 +1,92 @@
+# Negotiation and Deal Closing Plan
+
+## Business Task
+Scenario planning to strategically manage price negotiation and successfully close a property deal between buyer and seller. 
+
+## Problem addressed 
+Supports poor analysis of both buyer and seller positions and help to manage the tight negotitation tactics. 
+
+## Prompt
+You are an expert senior real estate negotiator and sales strategist. Develop a comprehensive negotiation and closing plan based on the following details. 
+
+**Property details:** [DETAILS]
+**Buyer offer:** [OFFER]
+**Seller expectations:** [EXPECTATIONS]
+**Market Conditions:** [CONDITIONS]
+
+Please create the negotiation plan with numbered points and bullet lists clearly stating the main points. Limit the response to no more than 350 words. Include the following sections:
+
+1. **Stakeholder analysis**
+2. **Negotiation tactics**
+3. **Communication plan** (include example scripts/messages and timing)
+4. **Risk assessment** 
+5. **Final persuasion methods**
+
+Do not include any information not supported by the data above. Avoid speculative or false claims. Use clear, concise language and format your response with numbered headings and bullet points.
+
+## Example Input
+**Property details:**
+3 spacious bedrooms, including a master with ensuite
+2 modern bathrooms plus a powder room
+Brand new build (December 2024) with contemporary design
+Modern kitchen with high-quality appliances and ample cabinetry
+Secure single-car garage with internal access
+Pet-friendly residence with private outdoor areas
+
+**Buyer offer:** 
+Offer Price: AUD 880,000
+Conditions: Subject to finance (14 days), building inspection
+Settlement: 45 days
+Buyer Type: Family upgrading from a townhouse
+
+**Seller expectations:** 
+Desired Price: AUD 920,000–950,000
+Motivation: Relocating for work (moderate urgency)
+Preferred Settlement: 30–60 days
+Flexibility: Open to negotiation but wants a strong price
+
+**Market Conditions:** 
+Market Type: Seller’s market (low inventory, high demand)
+Average Days on Market: 25–35 days
+Recent Comparable Sales: Similar homes sold between AUD 900,000 and 940,000
+Buyer Demand: High (family buyers in the area)
+
+
+## Example Output
+
+**1. Stakeholder Analysis**  
+- **Seller:** Motivated by relocation; moderate urgency; desires AUD 920,000–950,000; flexible on price but wants a strong offer; prefers 30–60 days settlement.  
+- **Buyer:** Family upgrading from townhouse; offer at AUD 880,000; conditions: finance approval (14 days), building inspection; settlement 45 days.  
+- **Market:** Seller’s market with low inventory and high demand; recent sales AUD 900,000–940,000; average market days 25–35; buyer demand high for family homes.
+
+**2. Negotiation Tactics**  
+- Highlight seller’s moderate urgency and market strength to justify price closer to AUD 920,000+.  
+- Leverage recent comparable sales (AUD 900,000–940,000) to push buyer upwards from AUD 880,000 offer.  
+- Emphasize property’s new build status, modern features, and pet-friendly appeal to increase perceived value.  
+- Offer flexibility in settlement (30–60 days) as a concession to buyer’s preferred 45 days.  
+- Use conditional approval timing (14 days finance) to maintain momentum but keep pressure for decision.
+
+**3. Communication Plan**  
+- **Initial response (within 24 hours):**  
+  *Script:* “Thank you for your offer of AUD 880,000. Considering recent comparable sales between AUD 900,000 and 940,000, and the unique features of this brand new home, the seller is looking for a price closer to AUD 920,000. The seller is flexible on settlement within 30–60 days to accommodate your needs. Let’s work together to find common ground.”  
+- **Follow-up (Day 7):** Check on finance approval progress; reinforce property value and moderate seller urgency.  
+- **Pre-inspection (Day 10):** Confirm inspection date, remind buyer of property condition and modern build quality.  
+- **Post-inspection (Day 15):** Address any concerns promptly; reassert seller’s price expectations and flexibility on terms.
+
+**4. Risk Assessment**  
+- Buyer may withdraw if unable to meet price expectations or if inspection reveals issues.  
+- Prolonged finance approval could delay closing beyond seller’s preferred timeframe.  
+- Market conditions favor seller, but overly rigid pricing may lose buyer.  
+- Inspection contingencies may introduce renegotiation risks.
+
+**5. Final Persuasion Methods**  
+- Emphasize scarcity: “With low inventory and high demand, opportunities like this are rare.”  
+- Offer small concessions (e.g., minor repairs, flexible settlement) to encourage acceptance near AUD 920,000.  
+- Highlight the home’s suitability for a growing family upgrading from a townhouse.  
+- Create urgency by referencing other interested buyers or pre-emptive offers without disclosing specifics.
+
+## Automation Potential 
+Moderate - human involved is needed to check the prompt output and validate. 
+
+## Risk and Limitations
+- The success factor is limited due to the inability to adapt to the real-time emotional and behavioural dynamics, requiring human oversight. 

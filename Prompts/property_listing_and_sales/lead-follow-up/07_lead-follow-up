@@ -1,0 +1,105 @@
+# Lead follow-up
+
+## Business Task
+Part of CRM followup which is important in lead nurturing for an open house.
+
+## Problem addressed 
+Due to poor lead tracking and understanding real estates loose leads. This prompt will give a good methodology to nurture leads and retention by brainstorming various angles of follow-up.
+
+## Prompt
+You are a professional real estate sales expert tasked with creating a clear, concise, and structured follow-up plan for a potential buyer based on the information below. Your plan should be practical, personalized, and focused on converting the lead into a sale within the buyer’s timeline.
+
+**Lead source:** [SOURCE]
+**Lead details:** [DETAILS]
+**Interaction history:** [HISTORY]
+**Special Considerations:** [CONSIDERATIONS]
+
+Please provide a follow-up plan including these sections with clear headings:
+
+1. **Follow-up schedule** (include timing, channel, and purpose)
+2. **Communication templates** (email, phone scripts, SMS)
+3. **Personalization strategies** (how to tailor communication to Sarah’s needs)
+4. **Conversion tactics** (methods to encourage purchase decision)
+5. **Escalation triggers** (when and how to escalate or adjust approach)
+
+Limit each section to no more than 200 words. Use professional and empathetic language appropriate for a real estate sales context. Ensure all recommendations are realistic and based on the provided lead information. Please do not add misleading claims.
+
+## Example Input
+
+**Lead source:** Open house inspection (Saturday event)
+**Lead details:**
+Name - Sarah
+Age - 34
+Occupation - IT Consultant
+Budget - AUD 850K - 900K
+Pre-approval loan - Yes
+Buying timeline - within 1 to 2 months
+Email - sarah.tan@gmail.com
+Phone - 0451874599
+**Interaction history:** Attended the open house. Asked about schools and closet supermarkets. Showed strong interest in backyard and kitchen, requested a contract copy, stayed for 30+ minutes. 
+**Special Considerations:** Family with 2 kids, prioritises school proximity and move-in-ready homes. Time-sensitive due to current lease ending.
+
+## Example Output
+
+**Follow-up Schedule**
+
+- Day 1 (Monday after open house): Email contract copy and detailed info on schools and supermarkets (Purpose: Provide requested documents, reinforce value).
+- Day 3: Phone call to discuss any questions, emphasize backyard and kitchen features, confirm budget and timeline (Purpose: Build rapport, clarify needs).
+- Day 7: SMS to check in on decision progress and offer to arrange a second private viewing or inspection of move-in-ready options nearby (Purpose: Maintain engagement, address urgency).
+- Week 2: Email showcasing comparable properties within budget and school zones, highlighting move-in readiness (Purpose: Present alternatives, encourage commitment).
+- Week 3: Phone call to discuss financing progress and readiness to proceed, offer negotiation or incentives if applicable (Purpose: Drive decision-making).
+- Week 4 onwards: Weekly SMS or email updates on new listings or market changes, with personalized messages until sale or timeline ends (Purpose: Stay top of mind, respond to evolving needs).
+
+---
+
+**Communication Templates**
+
+*Email (Day 1)*  
+Subject: Contract Copy & Local Amenities Information  
+Dear Sarah,  
+Thank you for visiting the open house on Saturday. Please find attached the contract copy as requested. I’ve also included details on nearby schools and supermarkets that would be ideal for your family. Let me know if you have any questions or would like to schedule another visit.  
+Kind regards,  
+[Your Name]
+
+*Phone Script (Day 3)*  
+Hi Sarah, this is [Your Name] following up on the open house. I wanted to check if you had a chance to review the contract and information I sent. Are there any questions about the backyard or kitchen features? Also, how are you feeling about your timeline and budget? I’m here to assist however I can.
+
+*SMS (Day 7)*  
+Hi Sarah, just checking in! Would you like to arrange a private viewing of this or other move-in-ready homes near great schools? Happy to help with timing as your lease ends soon.
+
+---
+
+**Personalization Strategies**
+
+- Reference Sarah’s IT consulting background to highlight smart home features or connectivity enhancements in properties.  
+- Emphasize family-friendly aspects: proximity to reputable schools, safe neighborhoods, and spacious backyard ideal for kids.  
+- Address her time sensitivity by proactively offering quick viewings and streamlined paperwork.  
+- Use her interest in kitchen and backyard to showcase homes with modern kitchens and outdoor living spaces.  
+- Tailor communication tone to be professional yet warm, acknowledging the challenges of moving with children.
+
+---
+
+**Conversion Tactics**
+
+- Create urgency by reminding Sarah of lease expiration and limited availability of move-in-ready homes in preferred school zones.  
+- Offer to liaise with her lender to ensure smooth financing process and pre-approval alignment.  
+- Provide a comparative market analysis to demonstrate value and justify asking price within her budget.  
+- Suggest incentives such as flexible settlement dates or covering certain closing costs if applicable.  
+- Facilitate a second private tour focusing on her prioritized features to deepen emotional connection.  
+- Share testimonials or case studies of similar families successfully purchasing through you.
+
+---
+
+**Escalation Triggers**
+
+- If Sarah does not respond after Day 7 phone and SMS attempts, escalate by sending a personalized video message summarizing value and next steps.  
+- If budget or financing questions arise, offer to arrange a call with a mortgage broker or financial advisor.  
+- If timeline becomes critical (lease ending within 2 weeks) and no decision made, propose urgent property options or short-term rental solutions as interim.  
+- If competing offers or price negotiations stall progress, escalate to supervisor or sales manager to explore flexible terms or incentives.  
+- Continuously monitor communication responsiveness; if engagement drops, reduce frequency but maintain monthly check-ins to keep the relationship alive.
+
+## Automation Potential
+High - can intregate with emails and SMS. 
+
+## Risks and Limitations
+- Over automation may feel impersonal.
