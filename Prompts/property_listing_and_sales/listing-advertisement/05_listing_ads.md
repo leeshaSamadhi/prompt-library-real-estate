@@ -1,4 +1,4 @@
-# Propert listing and advertising 
+# Property listing and advertising 
 
 ## Business Task
 Create the advertising plan after identifying the target market. 
