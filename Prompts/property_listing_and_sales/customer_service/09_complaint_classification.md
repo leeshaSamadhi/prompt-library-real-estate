@@ -1,10 +1,10 @@
 ## Customer service - customer complaint classification 
 
 ## Business Task
-Post sale/post interaction for sellers or buyers - identify and structure the complaint before responsing.
+Post sale/post interaction for sellers or buyers - identify and structure the complaint before responding.
 
 ## Problem addressed 
-- Most queries are difficult to categorize and sent to the correct review person.  
+- Most queries are difficult to categorize and this will support to sent to the correct review person.  
 
 
 ## Prompt
@@ -73,7 +73,7 @@ Respond ONLY in JSON format with the following keys, each appearing once.
 
 ## Automation Potential 
 Repetitiveness - high - every complaint follow the same classification structure. 
-Integration possiblity - high - can integrate with CRM, ticketing systems. 
+Integration possibility - high - can integrate with CRM, ticketing systems. 
 Estimated time savings - ~85% (10 min manual triage --> 1 to 2 min review)
 
 ## Risks and Limitations
